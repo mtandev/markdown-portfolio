@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#### Hobbies
+* Yoga
+* Photography
+  * Portraits
+  * Landscape
+* Reading
